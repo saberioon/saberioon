@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />
-
+<img src="https://img.shields.io/badge/saberioon%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 <!--
 **saberioon/saberioon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
